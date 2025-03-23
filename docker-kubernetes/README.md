@@ -5,8 +5,7 @@
 - The `restart: always` policy ensures the container automatically restarts in case of failure.
 
 ### **Output**
-![Screenshot](https://github.com/anjanpaul/wsd-coding-challenge/blob/main/docker_kubernetes/Screenshot%20from%202024-09-09%2019-18-15.png)
-
+![Screenshot](https://github.com/neehadumar/DevOpsCaseStudy/blob/main/docker-kubernetes/Screenshot%202025-03-23%20at%2019.46.20.png)
 ---
 
 ### **Kubernetes Command to Identify Pod Restart Reason**
